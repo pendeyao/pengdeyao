@@ -1,0 +1,10 @@
+E:\Visual Studio 2010\Projects\my first\my first\bin\my first.dll
+E:\Visual Studio 2010\Projects\my first\my first\bin\my first.pdb
+E:\Visual Studio 2010\Projects\my first\my first\bin\my first.xml
+E:\Visual Studio 2010\Projects\my first\my first\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2010\Projects\my first\my first\obj\Debug\my_first.Resources.resources
+E:\Visual Studio 2010\Projects\my first\my first\obj\Debug\GenerateResource.read.1.tlog
+E:\Visual Studio 2010\Projects\my first\my first\obj\Debug\GenerateResource.write.1.tlog
+E:\Visual Studio 2010\Projects\my first\my first\obj\Debug\my first.dll
+E:\Visual Studio 2010\Projects\my first\my first\obj\Debug\my first.xml
+E:\Visual Studio 2010\Projects\my first\my first\obj\Debug\my first.pdb
